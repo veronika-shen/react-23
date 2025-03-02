@@ -1,0 +1,124 @@
+{
+  "hackathons": [
+    {
+      "id": 1,
+      "name": "CodeFest 2023",
+      "register_date_begin": "2023-10-01",
+      "register_date_end": "2023-10-15",
+      "start_date_begin": "2023-10-20",
+      "start_date_end": "2023-10-22",
+      "max_members_count": 5,
+//      "owner": 101,
+      "description": "Annual coding competition focusing on innovative solutions.",
+      "task": "Develop a web application that solves a real-world problem."
+    },
+    {
+      "id": 2,
+      "name": "Hack the Future",
+      "register_date_begin": "2023-11-01",
+      "register_date_end": "2023-11-10",
+      "start_date_begin": "2023-11-15",
+      "start_date_end": "2023-11-17",
+      "max_members_count": 4,
+//      "owner": 102,
+      "description": "Focus on future technologies and sustainability.",
+      "task": "Create a prototype for a sustainable city solution."
+    },
+    {
+      "id": 3,
+      "name": "AI Challenge",
+      "register_date_begin": "2023-09-15",
+      "register_date_end": "2023-09-30",
+      "start_date_begin": "2023-10-05",
+      "start_date_end": "2023-10-07",
+      "max_members_count": 6,
+//      "owner": 103,
+      "description": "Explore the potentials of artificial intelligence.",
+      "task": "Build an AI model that predicts weather patterns."
+    },
+    {
+      "id": 4,
+      "name": "Global Hack",
+      "register_date_begin": "2023-12-01",
+      "register_date_end": "2023-12-10",
+      "start_date_begin": "2023-12-15",
+      "start_date_end": "2023-12-17",
+      "max_members_count": 5,
+//      "owner": 104,
+      "description": "International hackathon with diverse challenges.",
+      "task": "Develop a cross-platform mobile application."
+    },
+    {
+      "id": 5,
+      "name": "HealthTech Innovate",
+      "register_date_begin": "2023-08-20",
+      "register_date_end": "2023-09-05",
+      "start_date_begin": "2023-09-10",
+      "start_date_end": "2023-09-12",
+      "max_members_count": 4,
+//      "owner": 105,
+      "description": "Innovative solutions for healthcare challenges.",
+      "task": "Design a health monitoring system."
+    },
+    {
+      "id": 6,
+      "name": "EduHack 2023",
+      "register_date_begin": "2023-07-01",
+      "register_date_end": "2023-07-15",
+      "start_date_begin": "2023-07-20",
+      "start_date_end": "2023-07-22",
+      "max_members_count": 5,
+//      "owner": 106,
+      "description": "Revolutionizing education through technology.",
+      "task": "Create an educational game for children."
+    },
+    {
+      "id": 7,
+      "name": "FinTech Battle",
+      "register_date_begin": "2023-06-10",
+      "register_date_end": "2023-06-20",
+      "start_date_begin": "2023-06-25",
+      "start_date_end": "2023-06-27",
+      "max_members_count": 5,
+//      "owner": 107,
+      "description": "Innovate in the financial technology sector.",
+      "task": "Develop a blockchain-based transaction system."
+    },
+    {
+      "id": 8,
+      "name": "GreenTech Hackathon",
+      "register_date_begin": "2023-05-05",
+      "register_date_end": "2023-05-15",
+      "start_date_begin": "2023-05-20",
+      "start_date_end": "2023-05-22",
+      "max_members_count": 4,
+//      "owner": 108,
+      "description": "Sustainable technology solutions.",
+      "task": "Design a system for efficient energy use."
+    },
+    {
+      "id": 9,
+      "name": "SpaceApps Challenge",
+      "register_date_begin": "2023-04-01",
+      "register_date_end": "2023-04-10",
+      "start_date_begin": "2023-04-15",
+      "start_date_end": "2023-04-17",
+      "max_members_count": 6,
+//      "owner": 109,
+      "description": "Space exploration and technology.",
+      "task": "Create a tool for analyzing satellite data."
+    },
+    {
+      "id": 10,
+      "name": "CyberSec Challenge",
+      "register_date_begin": "2023-03-01",
+      "register_date_end": "2023-03-10",
+      "start_date_begin": "2023-03-15",
+      "start_date_end": "2023-03-17",
+      "max_members_count": 5,
+//      "owner": 110,
+      "description": "Enhancing cybersecurity measures.",
+      "task": "Develop a secure authentication system."
+    }
+  ]
+}
